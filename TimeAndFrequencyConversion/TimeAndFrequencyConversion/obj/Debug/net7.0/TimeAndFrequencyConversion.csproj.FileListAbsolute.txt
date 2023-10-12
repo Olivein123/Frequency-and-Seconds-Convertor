@@ -1,0 +1,15 @@
+C:\Code\NumberSystemsCnvertor\TimeAndFrequencyConversion\TimeAndFrequencyConversion\bin\Debug\net7.0\TimeAndFrequencyConversion.exe
+C:\Code\NumberSystemsCnvertor\TimeAndFrequencyConversion\TimeAndFrequencyConversion\bin\Debug\net7.0\TimeAndFrequencyConversion.deps.json
+C:\Code\NumberSystemsCnvertor\TimeAndFrequencyConversion\TimeAndFrequencyConversion\bin\Debug\net7.0\TimeAndFrequencyConversion.runtimeconfig.json
+C:\Code\NumberSystemsCnvertor\TimeAndFrequencyConversion\TimeAndFrequencyConversion\bin\Debug\net7.0\TimeAndFrequencyConversion.dll
+C:\Code\NumberSystemsCnvertor\TimeAndFrequencyConversion\TimeAndFrequencyConversion\bin\Debug\net7.0\TimeAndFrequencyConversion.pdb
+C:\Code\NumberSystemsCnvertor\TimeAndFrequencyConversion\TimeAndFrequencyConversion\obj\Debug\net7.0\TimeAndFrequencyConversion.csproj.AssemblyReference.cache
+C:\Code\NumberSystemsCnvertor\TimeAndFrequencyConversion\TimeAndFrequencyConversion\obj\Debug\net7.0\TimeAndFrequencyConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\NumberSystemsCnvertor\TimeAndFrequencyConversion\TimeAndFrequencyConversion\obj\Debug\net7.0\TimeAndFrequencyConversion.AssemblyInfoInputs.cache
+C:\Code\NumberSystemsCnvertor\TimeAndFrequencyConversion\TimeAndFrequencyConversion\obj\Debug\net7.0\TimeAndFrequencyConversion.AssemblyInfo.cs
+C:\Code\NumberSystemsCnvertor\TimeAndFrequencyConversion\TimeAndFrequencyConversion\obj\Debug\net7.0\TimeAndFrequencyConversion.csproj.CoreCompileInputs.cache
+C:\Code\NumberSystemsCnvertor\TimeAndFrequencyConversion\TimeAndFrequencyConversion\obj\Debug\net7.0\TimeAndFrequencyConversion.dll
+C:\Code\NumberSystemsCnvertor\TimeAndFrequencyConversion\TimeAndFrequencyConversion\obj\Debug\net7.0\refint\TimeAndFrequencyConversion.dll
+C:\Code\NumberSystemsCnvertor\TimeAndFrequencyConversion\TimeAndFrequencyConversion\obj\Debug\net7.0\TimeAndFrequencyConversion.pdb
+C:\Code\NumberSystemsCnvertor\TimeAndFrequencyConversion\TimeAndFrequencyConversion\obj\Debug\net7.0\TimeAndFrequencyConversion.genruntimeconfig.cache
+C:\Code\NumberSystemsCnvertor\TimeAndFrequencyConversion\TimeAndFrequencyConversion\obj\Debug\net7.0\ref\TimeAndFrequencyConversion.dll
